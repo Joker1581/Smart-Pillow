@@ -1,2 +1,2 @@
 # Smart-Pillow
-Team Project
+This is a team project.
